@@ -11,9 +11,15 @@ if you config with property not exist this tool can find this property
 Usage:
 1 download the apache default,choose your hadoop version, you can download files for hadoop 2.3.0 as follows
 http://hadoop.apache.org/docs/r2.3.0/hadoop-project-dist/hadoop-common/core-default.xml
+
 http://hadoop.apache.org/docs/r2.3.0/hadoop-project-dist/hadoop-hdfs/hdfs-default.xml
+
 http://hadoop.apache.org/docs/r2.3.0/hadoop-mapreduce-client/hadoop-mapreduce-client-core/mapred-default.xml
+
+
 http://hadoop.apache.org/docs/r2.3.0/hadoop-yarn/hadoop-yarn-common/yarn-default.xml
+
+
 
 
 2 you can java jar this project to jar
