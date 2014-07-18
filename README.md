@@ -1,0 +1,4 @@
+hadoopConfigCheck
+=================
+
+check hadoop config 
