@@ -26,7 +26,8 @@ http://hadoop.apache.org/docs/r2.3.0/hadoop-yarn/hadoop-yarn-common/yarn-default
 
 
 3 use it
-Example 
+
+Example :
 java -jar hadoopConfchecker.jar  ./core-default.xml  ./hdfs-default.xml  ./mapred-default.xml  ./yarn-default.xml  /usr/hadoop-2.3.0/etc/hadoop/core-site.xml /usr/hadoop-2.3.0/etc/hadoop/hdfs-site.xml /usr/hadoop-2.3.0/etc/hadoop/mapred-site.xml /usr/hadoop-2.3.0/etc/hadoop/yarn-site.xml 
 
 
