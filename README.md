@@ -38,4 +38,4 @@ java -jar hadoopConfchecker.jar  ./core-default.xml  ./hdfs-default.xml  ./mapre
 
 
 
-Enjoy it!!
+Enjoy it!!!!!11111
