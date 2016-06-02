@@ -34,7 +34,7 @@ or  just check a file
 
 java -jar hadoopConfchecker.jar  ./core-default.xml  ./hdfs-default.xml  ./mapred-default.xml  ./yarn-default.xml  /usr/hadoop-2.3.0/etc/hadoop/core-site.xml
 
-
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 Enjoy it!!!!!11111
