@@ -36,5 +36,5 @@ java -jar hadoopConfchecker.jar  ./core-default.xml  ./hdfs-default.xml  ./mapre
 
 
 test
-
+master add test
 Enjoy it!!!!!11111
