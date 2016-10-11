@@ -1,4 +1,4 @@
-hadoopConfigCheck ttt
+hadoopConfigCheck xxx
 =================
 
 check hadoop config 
