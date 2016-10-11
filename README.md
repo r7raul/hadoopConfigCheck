@@ -1,4 +1,4 @@
-hadoopConfigCheck yyyy
+hadoopConfigCheck zzzzzz
 =================
 
 check hadoop config 
