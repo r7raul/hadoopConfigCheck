@@ -15,7 +15,7 @@ import org.apache.hadoop.model.Property;
 public class Check {
 	
 	
-	/*pssublic static void main(String[] args) throws Exception {  
+	/*xxxxx pssublic static void main(String[] args) throws Exception {  
 		
         JAXBContext jc = JAXBContext.newInstance(Configuration.class);  
         Configuration conf = new Configuration();  
