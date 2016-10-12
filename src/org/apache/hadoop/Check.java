@@ -23,7 +23,7 @@ public class Check {
    
         Marshaller marshaller = jc.createMarshaller();  
         marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);  
-        marshaller.marshal(conf, System.out); 2 
+        marshaller.marshal(conf, System.out);
     }  */
 	
 	public static void main(String[] args) throws JAXBException {
