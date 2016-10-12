@@ -1,0 +1,18 @@
+env:
+  global:
+  - GH_REF: github.com/r7raul1984/hadoopConfigCheck.git
+script:
+  - chmod ugo+x deploy.sh
+  - '[ "${TRAVIS_PULL_REQUEST}" != "false" ] || ./deploy.sh'
+jdk:
+  - oraclejdk8
+notifications:
+  email:
+    recipients:
+      - chenchang@yhd.com
+      - heju@yhd.com
+      - tangjijun@yhd.com
+      - wangyuming@yhd.com
+      - denglingang@yhd.com
+    on_success: change
+    on_failure: always
