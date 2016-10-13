@@ -1,7 +1,7 @@
 #!/bin/bash
 git clone --depth=50 --branch=master https://github.com/r7raul1984/hadoopConfigCheck.git  deploy
 cd deploy
-######555
+######555666
 git config user.name "Travis-CI"
 git config user.email "travis@kamranicus.com"
 
